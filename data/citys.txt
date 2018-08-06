@@ -1,0 +1,10 @@
+beijing
+shanghai
+guangzhou
+shenzhen
+beijing
+hangzhou
+shenzhen
+guangzhou
+beijing
+hangzhou
